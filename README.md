@@ -1,5 +1,8 @@
 ### Hi there 👋
-[![Nadley GitHub stats](https://github-readme-stats.vercel.app/api?username=nadley)](https://github.com/anuraghazra/github-readme-stats)
+[![Nadley GitHub stats](https://github-readme-stats.vercel.app/api?username=nadley&show=reviews,discussions_started,discussions_answered&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nadley)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **nadley/nadley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
